@@ -26,7 +26,7 @@ class DataStructure {
 	interface DataStructureIterator extends java.util.Iterator<Integer> {
 	}
 
-	// Inner class implements the DataStructureIterator interface,
+	
 	// which extends the Iterator<Integer> interface
 
 	private class EvenIterator implements DataStructureIterator {
